@@ -1,5 +1,3 @@
-import numpy as np
-
 # Функция find_coefs(params)
 # 
 # принимает: словарь параметров
